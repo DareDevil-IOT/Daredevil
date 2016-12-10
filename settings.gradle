@@ -1,0 +1,4 @@
+rootProject.name = 'daredevil_IoT'
+
+include 'app-googleDirection'
+include 'app-rasp-ultrasonic'
